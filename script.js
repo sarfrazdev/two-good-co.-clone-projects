@@ -52,7 +52,7 @@ function navbarAnimation() {
   });
   gsap.to("#nav-part2 #links", {
     transform: "translateY(-100%)",
-    opacity: 0,
+    opacity: 1,
     scrollTrigger: {
       trigger: "#page1",
       scroller: "#main",
