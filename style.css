@@ -29,7 +29,7 @@ body {
 
 #nav {
     width: 100%;
-    position: fixed;
+/*     position: fixed; */
     z-index: 99;
     display: flex;
     align-items: flex-start;
